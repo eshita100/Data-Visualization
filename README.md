@@ -1,0 +1,1 @@
+This repository contains data analysis and visualization files related to a dataset on coffee chain sales. The project aims to provide insights into sales performance, and analysis using data analytics tools.
